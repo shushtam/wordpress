@@ -1,0 +1,15 @@
+<svg id="Ghost_Buttons" data-name="Ghost Buttons" xmlns="http://www.w3.org/2000/svg" width="48" height="30" viewBox="0 0 48 30">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #1e8dbe;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M0,39V9H48V39H0ZM44,13H4V35H44V13Z" transform="translate(0 -9)"/>
+  <rect class="cls-2" x="14" y="13" width="20" height="4"/>
+</svg>
